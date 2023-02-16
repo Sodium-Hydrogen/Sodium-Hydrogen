@@ -1,7 +1,8 @@
-### Electronics / software developer
+## Electronics / Software Developer
 
 Actively maintain [svg2mod](https://github.com/svg2mod/svg2mod). _(svg to kicad module converter)_
 
+Working on creating a mobile friendly, fully featured, 3d printer slicer in a web browser.
 
 Member of the [SAINTCON](https://saintcon.org) cyber-security conference electronic badge team.
 
